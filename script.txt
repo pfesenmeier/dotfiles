@@ -1,0 +1,9 @@
+# Setup Specs
+---within Linux---
+# A Linux terminal
+    vim - .vimrc smlnked to ./vimrc
+    bash terminal - terminal smlinked to bash
+# A Powershell terminal
+    terminal lnked to ...
+---within Windows terminal---
+open with two terminals, one powershell, one linux 
