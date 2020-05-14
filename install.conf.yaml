@@ -1,11 +1,14 @@
 - defaults:
+        
         link:
                 relink: true
 - clean: ['~']
-
+- create:
+        - ~/.vim/autoload
 - link:
         ~/.dotfiles: ''
         ~/.vimrc: vimrc
+        ~/.vim/autoload/pathogen.vim: vim-pathogen/autoload/pathogen.vim
 - create:
         - ~/downloads
         - ~/.vim/undo-history
